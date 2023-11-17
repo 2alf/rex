@@ -1,0 +1,2 @@
+# rex
+Rust File Explorer
